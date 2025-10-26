@@ -1,4 +1,17 @@
-# 💻 Teoría de la Programación
+# 🏫 **Universidad Nacional de Loja**
+## 💻 Carrera: Computación  
+### 📘 Asignatura: Teoría de la Programación  
+
+---
+
+### 📅 Ciclo: 1  
+### 🗓️ Período Académico: 2025 - 2026  
+
+---
+
+### 👩🏻‍🏫 Docente: *Ing. Lissette López*  
+### 👩🏻‍🎓 Estudiante: *Selena Castillo*  
+
 
 ## 📂 Portafolio Digital de Aprendizaje  
 
