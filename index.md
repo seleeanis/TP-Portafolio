@@ -1,4 +1,4 @@
-# 🏫 **Universidad Nacional de Loja**
+# 🏫 **Universidad Nacional de Loja** ![Logo Institución](https://unl.edu.ec/sites/default/files/inline-images/logo_0.png)
 ## 💻 Carrera: Computación  
 ### 📘 Asignatura: Teoría de la Programación  
 
