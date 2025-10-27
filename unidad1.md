@@ -5,7 +5,7 @@ Los **algoritmos** son una serie de pasos ordenados y lógicos que permiten reso
 El **pseudocódigo** se utiliza para representar un algoritmo de forma estructurada, usando un lenguaje similar al natural, pero con reglas de programación básicas.  
 Por su parte, el **diagrama de flujo** representa gráficamente los pasos del algoritmo mediante símbolos estandarizados (óvalos, rombos, rectángulos, flechas, etc.), facilitando su comprensión visual.
 
-**Ejemplo de algoritmo (pseudocódigo):**
+###**Ejemplo de algoritmo (pseudocódigo):**
 ---
 
 #### 🧩 Programación por bloques
@@ -28,4 +28,10 @@ Es la forma más simple de control en la programación y se usa para procesos li
 -	Instalación de lenguajes de programación (C, Python o Java). 
 -	Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo 
 -	Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
+
+  <p align="center">
+  <a href="https://drive.google.com/drive/folders/1A2B3C4D5E6F7G8H9" target="_blank">
+    <img src="https://img.shields.io/badge/Abrir%20en-Google%20Drive-blue?logo=google-drive&logoColor=white&style=for-the-badge" alt="Abrir en Google Drive">
+  </a>
+</p>
 
