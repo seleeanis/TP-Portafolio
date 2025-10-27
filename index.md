@@ -1,32 +1,39 @@
-![Logo Institución](https://unl.edu.ec/sites/default/files/inline-images/logo_0.png)
-# 🏫 **Universidad Nacional de Loja** 
-## 💻 Carrera: Computación  
-### 📘 Asignatura: Teoría de la Programación  
+<p align="center">
+  <img src="https://unl.edu.ec/sites/default/files/inline-images/logo_0.png" width="140" alt="Logo UNL"><br><br>
+
+  <h1><span style="color:#ff66b2;">🏫 <strong>Universidad Nacional de Loja</strong></span></h1>
+  <h2><span style="color:#ff99cc;">💻 Carrera:</span> <span style="color:black;">Computación</span></h2>
+  <h3><span style="color:#ffb6c1;">📘 Asignatura:</span> <span style="color:black;">Teoría de la Programación</span></h3>
+
+  <hr style="width:60%; border:1px solid #ff99cc;">
+
+  <h3><span style="color:#ff66b2;">📅 Ciclo:</span> <span style="color:black;">1</span></h3>
+  <h3><span style="color:#ff66b2;">🗓️ Período Académico:</span> <span style="color:black;">2025 - 2026</span></h3>
+
+  <hr style="width:60%; border:1px solid #ff99cc;">
+
+  <h3><span style="color:#ff66b2;">👩🏻‍🏫 Docente:</span> <span style="color:black;">Ing. Lissette López</span></h3>
+  <h3><span style="color:#ff66b2;">👩🏻‍🎓 Estudiante:</span> <span style="color:black;">Selena Castillo</span></h3>
+
+  <br><br>
+  <h2><span style="color:#000000; background-color:#ffccde; padding:6px 12px; border-radius:10px;">📂 Portafolio Digital de Aprendizaje</span></h2>
+</p>
 
 ---
 
-### 📅 Ciclo: 1  
-### 🗓️ Período Académico: 2025 - 2026  
+<p align="center">
+  <h3><span style="color:#ff66b2;">🧩 Unidad 1 —</span> <span style="color:black;">Fundamentos de la Programación</span></h3>
+  <a href="unidad1.md">
+    <img src="https://img.shields.io/badge/Abrir%20Unidad%201-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Unidad 1">
+  </a>
 
----
+  <h3><span style="color:#ff66b2;">⚙️ Unidad 2 —</span> <span style="color:black;">Estructuras y Algoritmos</span></h3>
+  <h3><span style="color:#ff66b2;">🧠 Unidad 3 —</span> <span style="color:black;">Programación Avanzada</span></h3>
 
-### 👩🏻‍🏫 Docente: *Ing. Lissette López*  
-### 👩🏻‍🎓 Estudiante: *Selena Castillo*  
+  <hr style="width:60%; border:1px solid #ff99cc;">
 
+  <h3><span style="color:#ff66b2;">📝 Conclusiones</span></h3>
+  <h3><span style="color:#ff66b2;">📚 Referencias</span></h3>
+  <h3><span style="color:#ff66b2;">🤖 Uso de la Inteligencia Artificial</span></h3>
+</p>
 
-## 📂 Portafolio Digital de Aprendizaje  
-
-### 🧩 Unidad 1 — Fundamentos de la Programación  
-
-[Ir a Unidad 1](unidad1.md)
-
-### ⚙️ Unidad 2 — Estructuras y Algoritmos  
-### 🧠 Unidad 3 — Programación Avanzada  
-
----
-
-### 📝 Conclusiones  
-
-### 📚 Referencias  
-
-### 🤖 Uso de la Inteligencia Artificial
