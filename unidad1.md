@@ -21,7 +21,7 @@ Este tipo de programación se usa ampliamente para el aprendizaje inicial, ya qu
 Una **estructura secuencial** ejecuta las instrucciones en el mismo orden en que aparecen, sin tomar decisiones ni repetir pasos.  
 Es la forma más simple de control en la programación y se usa para procesos lineales, como cálculos o lecturas de datos.
 
-**Ejemplo: Calcular el área de un rectángulo**
+###**Ejemplo: Calcular el área de un rectángulo**
 
 ### 🗺️Tareas entregadas 
 -	Herramientas de algoritmos (pseudocódigo y diagramas de flujo). 
@@ -30,7 +30,7 @@ Es la forma más simple de control en la programación y se usa para procesos li
 -	Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
 
   <p align="center">
-  <a href="https://drive.google.com/drive/folders/1A2B3C4D5E6F7G8H9" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1ts2qCX0A8Ql9N2S3iDyLzKVBrqQIzWiV?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Abrir%20en-Google%20Drive-blue?logo=google-drive&logoColor=white&style=for-the-badge" alt="Abrir en Google Drive">
   </a>
 </p>
