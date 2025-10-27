@@ -31,7 +31,7 @@ Es la forma más simple de control en la programación y se usa para procesos li
 
   <p align="center">
   <a href="https://drive.google.com/drive/folders/1ts2qCX0A8Ql9N2S3iDyLzKVBrqQIzWiV?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Abrir%20en-Google%20Drive-blue?logo=google-drive&logoColor=white&style=for-the-badge" alt="Abrir en Google Drive">
+    <img src="https://img.shields.io/badge/Abrir%20en%20Google%20Drive-ff69b4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Abrir en Google Drive">
   </a>
 </p>
 
