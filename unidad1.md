@@ -23,19 +23,19 @@ Es la forma más simple de control en la programación y se usa para procesos li
 
 ## Código para Sumar dos números
 ### Pseudocódigo:
-
+```pseudocode
 Algoritmo suma_dosNumeros
-	Definir a como real;
-	definir b como real;
-	Definir suma como real;
-	Escribir "Ingrese el primer número:";
-	Leer a;
-	Escribir "Ingrese el segundo número:";
-	Leer b;
-	suma = a+b;
-	Escribir "La suma es igual a:", suma;
+    Definir a como real;
+    Definir b como real;
+    Definir suma como real;
+    Escribir "Ingrese el primer número:";
+    Leer a;
+    Escribir "Ingrese el segundo número:";
+    Leer b;
+    suma = a + b;
+    Escribir "La suma es igual a:", suma;
 FinAlgoritmo
-
+```
  ### Diagrama de flujo:
  <img width="663" height="633" alt="image" src="https://github.com/user-attachments/assets/23ac93e8-8f85-47e4-ba52-6dc89d417cc4" />
 
