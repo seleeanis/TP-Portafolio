@@ -38,7 +38,7 @@ FinAlgoritmo
 
  ### Diagrama de flujo:
  
-  ![Diagrama de flujo](https://drive.google.com/file/d/1_wxckfJzi8YS0VPfwWejju_wUIfrPAUr/view?usp=sharing)
+  ![Diagrama de flujo](https://drive.google.com/file/d/1_wxckfJzi8YS0VPfwWejju_wUIfrPAUr/view?usp=sharing.jpg)
 
 
 ## 🗺️Tareas entregadas 
