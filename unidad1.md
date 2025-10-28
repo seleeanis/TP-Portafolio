@@ -37,7 +37,9 @@ Algoritmo suma_dosNumeros
 FinAlgoritmo
 
  ### Diagrama de flujo:
- ![Diagrama de flujo](https://drive.google.com/file/d/1_wxckfJzi8YS0VPfwWejju_wUIfrPAUr/view)
+ <img width="663" height="633" alt="image" src="https://github.com/user-attachments/assets/23ac93e8-8f85-47e4-ba52-6dc89d417cc4" />
+
+ 
 ## 🗺️Tareas entregadas 
 -	Herramientas de algoritmos (pseudocódigo y diagramas de flujo). 
 -	Instalación de lenguajes de programación (C, Python o Java). 
