@@ -21,6 +21,25 @@ Este tipo de programación se usa ampliamente para el aprendizaje inicial, ya qu
 Una **estructura secuencial** ejecuta las instrucciones en el mismo orden en que aparecen, sin tomar decisiones ni repetir pasos.  
 Es la forma más simple de control en la programación y se usa para procesos lineales, como cálculos o lecturas de datos.
 
+## Código para Sumar dos números
+### Pseudocódigo:
+
+Algoritmo suma_dosNumeros
+	Definir a como real;
+	definir b como real;
+	Definir suma como real;
+	Escribir "Ingrese el primer número:";
+	Leer a;
+	Escribir "Ingrese el segundo número:";
+	Leer b;
+	suma = a+b;
+	Escribir "La suma es igual a:", suma;
+FinAlgoritmo
+
+ ### Diagrama de flujo:
+ 
+  ![Diagrama de flujo](https://drive.google.com/file/d/1_wxckfJzi8YS0VPfwWejju_wUIfrPAUr/view?usp=drive_link)
+
 
 ## 🗺️Tareas entregadas 
 -	Herramientas de algoritmos (pseudocódigo y diagramas de flujo). 
