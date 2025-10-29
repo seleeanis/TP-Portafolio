@@ -1,4 +1,4 @@
-### 📘 Contenidos de la Unidad
+## 📘 Contenidos de la Unidad
 
 #### 🧮 Algoritmos, pseudocódigo y diagramas de flujo
 Los **algoritmos** son una serie de pasos ordenados y lógicos que permiten resolver un problema o realizar una tarea específica.  
@@ -21,7 +21,7 @@ Este tipo de programación se usa ampliamente para el aprendizaje inicial, ya qu
 Una **estructura secuencial** ejecuta las instrucciones en el mismo orden en que aparecen, sin tomar decisiones ni repetir pasos.  
 Es la forma más simple de control en la programación y se usa para procesos lineales, como cálculos o lecturas de datos.
 
-## Código para Sumar dos números
+### Código para Sumar dos números
 ### Pseudocódigo:
 ```pseudocode
 Algoritmo suma_dosNumeros
@@ -76,4 +76,7 @@ return 0;
     <img src="https://img.shields.io/badge/Abrir%20en%20Google%20Drive-ff69b4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Abrir en Google Drive">
   </a>
 </p>
+
+## Reflexión 
+En esta unidad me pareció fundamental el uso de Pseint como herramienta de apoyo y guía para adentrarnos al mundo de la programación, así mismo pude comprender lo importante que es la práctica para fortalecer nuestras habilidades con los diferentes lenguajes de programación.
 
