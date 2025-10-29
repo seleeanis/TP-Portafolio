@@ -28,6 +28,7 @@ Algoritmo suma_dosNumeros
 FinAlgoritmo
 ```
 Por su parte, el **diagrama de flujo** representa gráficamente los pasos del algoritmo mediante símbolos estandarizados (óvalos, rombos, rectángulos, flechas, etc.), facilitando su comprensión visual. Aquí el diagrama del ejemplo anterior:
+
 <img width="663" height="633" alt="image" src="https://github.com/user-attachments/assets/23ac93e8-8f85-47e4-ba52-6dc89d417cc4" />
 ---
 
@@ -41,6 +42,8 @@ Este tipo de programación se usa ampliamente para el aprendizaje inicial, ya qu
 - App Inventor 📱
   
 Ejemplo de la interfaz de Pilas Bloques:
+
+
 <img width="260" height="170" alt="image" src="https://github.com/user-attachments/assets/b8be3127-67b4-4807-85b9-c5f3b58eb391" />
 
 ---
