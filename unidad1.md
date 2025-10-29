@@ -1,6 +1,6 @@
 ## 📘 Contenidos de la Unidad
 
-#### 🧮 Algoritmos, pseudocódigo y diagramas de flujo
+#### 🧮 <span style="color:#e53935;">Algoritmos, Pseudocódigo y Diagramas de Flujo</span>
 Los **algoritmos** son una serie de pasos ordenados y lógicos que permiten resolver un problema o realizar una tarea específica.  
 El **pseudocódigo** se utiliza para representar un algoritmo de forma estructurada, usando un lenguaje similar al natural, pero con reglas de programación básicas.  
 Por su parte, el **diagrama de flujo** representa gráficamente los pasos del algoritmo mediante símbolos estandarizados (óvalos, rombos, rectángulos, flechas, etc.), facilitando su comprensión visual.
@@ -21,8 +21,8 @@ Este tipo de programación se usa ampliamente para el aprendizaje inicial, ya qu
 Una **estructura secuencial** ejecuta las instrucciones en el mismo orden en que aparecen, sin tomar decisiones ni repetir pasos.  
 Es la forma más simple de control en la programación y se usa para procesos lineales, como cálculos o lecturas de datos.
 
-### Código para Sumar dos números
-### Pseudocódigo:
+### 💻 Código para Sumar dos números
+### 🧠 Pseudocódigo:
 ```pseudocode
 Algoritmo suma_dosNumeros
     Definir a como real;
@@ -36,10 +36,10 @@ Algoritmo suma_dosNumeros
     Escribir "La suma es igual a:", suma;
 FinAlgoritmo
 ```
- ### Diagrama de flujo:
+ ### 🧭 Diagrama de flujo:
  <img width="663" height="633" alt="image" src="https://github.com/user-attachments/assets/23ac93e8-8f85-47e4-ba52-6dc89d417cc4" />
 
- ### Código en C:
+ ### ⚙️ Código en C:
  ```pseudocode
 #include <stdio.h>
 #include <float.h>
@@ -66,17 +66,21 @@ return 0;
  ```
 
 ## 🗺️Tareas entregadas 
--	Herramientas de algoritmos (pseudocódigo y diagramas de flujo). 
--	Instalación de lenguajes de programación (C, Python o Java). 
--	Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo 
--	Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
+-	🧮 Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
 
+- 💻 Instalación de lenguajes de programación (C, Python o Java).
+
+- 🧩 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo.
+
+- 🧠 Del diseño del algoritmo a la construcción del programa.
+  
   <p align="center">
   <a href="https://drive.google.com/drive/folders/1ts2qCX0A8Ql9N2S3iDyLzKVBrqQIzWiV?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Abrir%20en%20Google%20Drive-ff69b4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Abrir en Google Drive">
   </a>
 </p>
 
-## Reflexión 
-En esta unidad me pareció fundamental el uso de Pseint como herramienta de apoyo y guía para adentrarnos al mundo de la programación, así mismo pude comprender lo importante que es la práctica para fortalecer nuestras habilidades con los diferentes lenguajes de programación.
+## 💭 Reflexión
 
+En esta unidad comprendí la importancia del uso de PSeInt como herramienta de apoyo para iniciarnos en el mundo de la programación.
+Además, aprendí que la práctica constante es esencial para fortalecer nuestras habilidades en distintos lenguajes y mejorar nuestra capacidad para resolver problemas de manera lógica y estructurada.
