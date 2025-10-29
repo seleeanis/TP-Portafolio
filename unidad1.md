@@ -45,6 +45,7 @@ Ejemplo de la interfaz de Pilas Bloques:
 
 
 <img width="260" height="170" alt="image" src="https://github.com/user-attachments/assets/b8be3127-67b4-4807-85b9-c5f3b58eb391" />
+<img width="285" height="283" alt="image" src="https://github.com/user-attachments/assets/ee92f3cb-4e34-48ce-9f35-39960441ece9" />
 
 ---
 
