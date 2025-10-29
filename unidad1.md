@@ -39,7 +39,32 @@ FinAlgoritmo
  ### Diagrama de flujo:
  <img width="663" height="633" alt="image" src="https://github.com/user-attachments/assets/23ac93e8-8f85-47e4-ba52-6dc89d417cc4" />
 
- 
+ ### Código en C:
+ ```pseudocode
+#include <stdio.h>
+#include <float.h>
+
+int main(){
+
+
+    float valor1 , valor2 , suma ;
+
+
+    printf("Ingrese el primer numero:\n");
+    scanf("%f", &valor1);
+    printf("Ingrese el segundo numero:\n");
+    scanf("%f", &valor2);
+
+    suma = valor1 + valor2;
+
+    printf("La suma es: %2.f", suma);
+
+
+return 0;
+
+}
+ ```
+
 ## 🗺️Tareas entregadas 
 -	Herramientas de algoritmos (pseudocódigo y diagramas de flujo). 
 -	Instalación de lenguajes de programación (C, Python o Java). 
