@@ -10,6 +10,7 @@ Por su parte, el **diagrama de flujo** representa gráficamente los pasos del al
 #### 🧩 Programación por bloques
 La **programación por bloques** es una metodología visual que permite crear programas mediante bloques gráficos que representan instrucciones, sin necesidad de escribir código textual.  
 Este tipo de programación se usa ampliamente para el aprendizaje inicial, ya que permite comprender la lógica sin preocuparse por la sintaxis.  
+
 🧱 **Ejemplos de plataformas:**  
 - Scratch 🐱  
 - Blockly 🧠  
