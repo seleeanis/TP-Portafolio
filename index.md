@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://unl.edu.ec/sites/default/files/inline-images/logo_0.png" width="140" alt="Logo UNL"><br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_unl.png" width="140" alt="Logo UNL"><br><br>
 
  <div align="center">
   <h1><span style="color:#ff66b2;">🏫 <strong>Universidad Nacional de Loja</strong></span></h1>
