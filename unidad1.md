@@ -1,6 +1,6 @@
 ## 📘 Contenidos de la Unidad
 
-#### 🧮 <span style="color:#e53935;">Algoritmos, Pseudocódigo y Diagramas de Flujo</span>
+#### 🧮 Algoritmos, Pseudocódigo y Diagramas de Flujo
 Los **algoritmos** son una serie de pasos ordenados y lógicos que permiten resolver un problema o realizar una tarea específica.  
 El **pseudocódigo** se utiliza para representar un algoritmo de forma estructurada, usando un lenguaje similar al natural, pero con reglas de programación básicas.  
 Por su parte, el **diagrama de flujo** representa gráficamente los pasos del algoritmo mediante símbolos estandarizados (óvalos, rombos, rectángulos, flechas, etc.), facilitando su comprensión visual.
