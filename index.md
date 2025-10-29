@@ -19,7 +19,7 @@
 
   <br><br>
   <div align="center">
-  <h2><span style="color:#000000; background-color:#ffccde; padding:6px 12px; border-radius:10px;">📂 Portafolio Digital de Aprendizaje</span></h2>
+  <h1><span style="color:#000000; background-color:#ffccde; padding:6px 12px; border-radius:10px;">📂 Portafolio Digital de Aprendizaje</span></h1>
   </div>
 </p>
 
