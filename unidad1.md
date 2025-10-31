@@ -31,8 +31,8 @@ Por su parte, el **diagrama de flujo** representa gráficamente los pasos del al
 
 <p align="center">
 <img width="663" height="633" alt="image" src="https://github.com/user-attachments/assets/23ac93e8-8f85-47e4-ba52-6dc89d417cc4" />
-
- Imagen 1: Diagrama de flujo Pseint.</p>
+</p>
+<p align="center"> Imagen 1: Diagrama de flujo Pseint.</p>
 
 ---
 
@@ -50,8 +50,8 @@ Ejemplo de la interfaz de Pilas Bloques: (Ver imagen 2 y 3)
 <p align="center">
 <img width="260" height="170" alt="image" src="https://github.com/user-attachments/assets/b8be3127-67b4-4807-85b9-c5f3b58eb391" />
 <img width="285" height="283" alt="image" src="https://github.com/user-attachments/assets/ee92f3cb-4e34-48ce-9f35-39960441ece9" />
-
- Imagen 2 y 3: Interfaz Pilas Bloques.</p>
+</p>
+<p align="center"> Imagen 2 y 3: Interfaz Pilas Bloques.</p>
  
 ---
 ### 💻 Lenguaje C
