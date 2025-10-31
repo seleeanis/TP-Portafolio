@@ -32,6 +32,10 @@
   </a>
 
   <h3><span style="color:#ff66b2;">⚙️ Unidad 2 —</span> <span style="color:black;">Estructuras y Algoritmos</span></h3>
+  <a href="unidad2.md">
+    <img src="https://img.shields.io/badge/Abrir%20Unidad%201-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Unidad 2">
+  </a>
+  
   <h3><span style="color:#ff66b2;">🧠 Unidad 3 —</span> <span style="color:black;">Programación Avanzada</span></h3>
 
   <hr style="width:60%; border:1px solid #ff99cc;">
