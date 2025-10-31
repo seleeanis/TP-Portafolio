@@ -1,7 +1,7 @@
 ## 📘 Contenidos de la Unidad
 
 #### 🧮 Algoritmos, Pseudocódigo y Diagramas de Flujo
-Los **algoritmos** son una serie de pasos ordenados y lógicos que permiten resolver un problema o realizar una tarea específica.  Los usamos también en nuestra vida diaria, por ejemplo, este sería el algoritmo para ir a clases:
+Los **algoritmos** son una serie de pasos ordenados que permiten resolver un problema o realizar una tarea específica.  Los usamos en nuestra vida diaria, por ejemplo, el algoritmo para ir a clases:
 ```pseudocode
 1.	Despertarse
 2.	Ducharse
@@ -34,12 +34,12 @@ Por su parte, el **diagrama de flujo** representa gráficamente los pasos del al
 
 #### 🧩 Programación por bloques
 La **programación por bloques** es una metodología visual que permite crear programas mediante bloques gráficos que representan instrucciones, sin necesidad de escribir código textual.  
-Este tipo de programación se usa ampliamente para el aprendizaje inicial, ya que permite comprender la lógica sin preocuparse por la sintaxis.  
+Se usa ampliamente para el aprendizaje inicial, ya que permite comprender la lógica de manera sencilla.  
 
 🧱 **Ejemplos de plataformas:**  
 - Scratch 🐱  
 - Blockly 🧠  
-- App Inventor 📱
+- Pilas Bloques 📱
   
 Ejemplo de la interfaz de Pilas Bloques:
 
@@ -47,6 +47,8 @@ Ejemplo de la interfaz de Pilas Bloques:
 <img width="260" height="170" alt="image" src="https://github.com/user-attachments/assets/b8be3127-67b4-4807-85b9-c5f3b58eb391" />
 <img width="285" height="283" alt="image" src="https://github.com/user-attachments/assets/ee92f3cb-4e34-48ce-9f35-39960441ece9" />
 
+<p align="center"> Imagen 1 y 2: Interfaz Pilas Bloques.</p>
+ 
 ---
 
 #### 🔁 Ejemplos de algoritmos con estructuras lineales o secuenciales
