@@ -111,7 +111,8 @@ return 0;
 </p>
 
 ##  ⚙️ Principales dificultades en la aplicación de los contenidos.
-Desde mi punto de vista, en esta unidad fue bastante sencillo y agradable el aprendizaje de todos los contenidos gracias al acompañamiento de la docente y los recursos tecnológicos. 
+Desde mi punto de vista, en esta unidad fue bastante sencillo y agradable en mayor parte el aprendizaje de todos los contenidos gracias al acompañamiento de la docente y los recursos tecnológicos. 
+Solamente considero que el aprendizaje de un nuevo lenguaje puede tomar bastante dedicación y práctica.
 
 ## 💭 Reflexión
 
