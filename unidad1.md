@@ -64,7 +64,7 @@ La cual es indispensable pues contiene los prototipos de funciones y los tipos d
 
 Es importante recalcar también que en C el programa empieza siempre desde la función **main()**.
 
-Los comandos básicos son:
+Los comandos principales para compilar y ejecutar en C son:
 - Compilar: gcc programa.c -o programa
 - Ejecutar: .\programa.exe
 
