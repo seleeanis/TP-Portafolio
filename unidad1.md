@@ -110,6 +110,9 @@ return 0;
   </a>
 </p>
 
+##  ⚙️ Principales dificultades en la aplicación de los contenidos.
+Desde mi punto de vista, en esta unidad fue bastante sencillo y agradable el aprendizaje de todos los contenidos gracias al acompañamiento de la docente y los recursos tecnológicos. 
+
 ## 💭 Reflexión
 
 En esta unidad comprendí la importancia del uso de PSeInt como herramienta de apoyo para iniciarnos en el mundo de la programación.
