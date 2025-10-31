@@ -58,14 +58,14 @@ Ejemplo de la interfaz de Pilas Bloques: (Ver imagen 2 y 3)
 C es un lenguaje de programación de propósito general, desarrollado a principios de los años 70 por Dennis Ritchie en los laboratorios Bell de AT&T. Fue creado inicialmente para implementar el sistema operativo UNIX, pero su simplicidad, eficiencia y flexibilidad lo han convertido en uno de los lenguajes más influyentes de la historia de la informática.[1]
 Aunque es considerado un lenguaje de medio nivel —porque combina características de lenguajes de alto y bajo nivel—, C permite una manipulación directa de la memoria, lo que lo hace ideal para sistemas operativos, controladores de hardware, software embebido y otras aplicaciones que requieren eficiencia cercana al hardware.[1]
 
-En el lenguaje C encontramos las librerías, que son archivos de código para realizar operaciones y cálculos de uso frecuente y son parte de cada compilador. Su extensión es **.h** 
-Ejemplo: **stdio.h** 
+En el lenguaje C encontramos las librerías, que son archivos de código para realizar operaciones y cálculos de uso frecuente y son parte de cada compilador. Su extensión es **.h**                                                                                                
+Ejemplo: **stdio.h**                                                                                                                      
 La cual es indispensable pues contiene los prototipos de funciones y los tipos de datos para manipular sus entradas y salidas.
 
 Es importante recalcar también que en C el programa empieza siempre desde la función **main()**.
 
 Los comandos básicos son:
-- Compilar: programa.c -o programa
+- Compilar: gcc programa.c -o programa
 - Ejecutar: .\programa.exe
 
 
