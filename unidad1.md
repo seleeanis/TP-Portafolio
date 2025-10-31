@@ -27,9 +27,12 @@ Algoritmo suma_dosNumeros
     Escribir "La suma es igual a:", suma;
 FinAlgoritmo
 ```
-Por su parte, el **diagrama de flujo** representa gráficamente los pasos del algoritmo mediante símbolos estandarizados (óvalos, rombos, rectángulos, flechas, etc.), facilitando su comprensión visual. Aquí el diagrama del ejemplo anterior:
+Por su parte, el **diagrama de flujo** representa gráficamente los pasos del algoritmo mediante símbolos estandarizados (óvalos, rombos, rectángulos, flechas, etc.), facilitando su comprensión visual. Aquí el diagrama del ejemplo anterior:(Ver imagen 1)
 
 <img width="663" height="633" alt="image" src="https://github.com/user-attachments/assets/23ac93e8-8f85-47e4-ba52-6dc89d417cc4" />
+
+<p align="center"> Imagen 1: Diagrama de flujo Pseint.</p>
+
 ---
 
 #### 🧩 Programación por bloques
@@ -41,23 +44,29 @@ Se usa ampliamente para el aprendizaje inicial, ya que permite comprender la ló
 - Blockly 🧠  
 - Pilas Bloques 📱
   
-Ejemplo de la interfaz de Pilas Bloques:
+Ejemplo de la interfaz de Pilas Bloques:(Ver imagen 2 y 3)
 
 
 <img width="260" height="170" alt="image" src="https://github.com/user-attachments/assets/b8be3127-67b4-4807-85b9-c5f3b58eb391" />
 <img width="285" height="283" alt="image" src="https://github.com/user-attachments/assets/ee92f3cb-4e34-48ce-9f35-39960441ece9" />
 
-<p align="center"> Imagen 1 y 2: Interfaz Pilas Bloques.</p>
+<p align="center"> Imagen 2 y 3: Interfaz Pilas Bloques.</p>
  
 ---
+### 💻 Lenguaje C
+C es un lenguaje de programación de propósito general, desarrollado a principios de los años 70 por Dennis Ritchie en los laboratorios Bell de AT&T. Fue creado inicialmente para implementar el sistema operativo UNIX, pero su simplicidad, eficiencia y flexibilidad lo han convertido en uno de los lenguajes más influyentes de la historia de la informática.[1]
+Aunque es considerado un lenguaje de medio nivel —porque combina características de lenguajes de alto y bajo nivel—, C permite una manipulación directa de la memoria, lo que lo hace ideal para sistemas operativos, controladores de hardware, software embebido y otras aplicaciones que requieren eficiencia cercana al hardware.[1]
 
-#### 🔁 Ejemplos de algoritmos con estructuras lineales o secuenciales
-Una **estructura secuencial** ejecuta las instrucciones en el mismo orden en que aparecen, sin tomar decisiones ni repetir pasos.  
-Es la forma más simple de control en la programación y se usa para procesos lineales, como cálculos o lecturas de datos.
+En el lenguaje C encontramos las librerías, que son archivos de código para realizar operaciones y cálculos de uso frecuente y son parte de cada compilador. Su extensión es **.h** , ejemplo: stdio.h (La cual es indispensable pues contiene los prototipos de funciones y los tipos de datos para manipular sus entradas y salidas.) 
 
-### 💻 Código para Sumar dos números
+Es importante recalcar también que en C el programa empieza siempre desde la función **main()**.
 
- ### ⚙️ Código en C:
+Los comandos básicos son:
+- Compilar: programa.c -o programa
+- Ejecutar: .\programa.exe
+
+
+### ⚙️ Ejemplo de código en C para sumar dos números:
  ```pseudocode
 #include <stdio.h>
 #include <float.h>
