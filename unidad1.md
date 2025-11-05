@@ -53,7 +53,7 @@ Ejemplo de la interfaz de Pilas Bloques: (Ver imagen 2 y 3)
 </p>
 <p align="center"> Imagen 2 y 3: Interfaz Pilas Bloques.</p>
 
-### 💻 Pruebas de escritorio
+### 🧮 Pruebas de escritorio
 Es el proceso que nos permite asegurar que nuestro programa arroje el resultado que esperamos, lo hacemos generalmente en papel y a mano mediante una tabla. Ejemplo: (Ver imagen 4)
 <p align="center">
 <img width="916" height="174" alt="image" src="https://github.com/user-attachments/assets/83619b97-b10f-442e-865b-c24336a0a840" />
