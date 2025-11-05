@@ -59,6 +59,7 @@ Es el proceso que nos permite asegurar que nuestro programa arroje el resultado 
 <img width="916" height="174" alt="image" src="https://github.com/user-attachments/assets/83619b97-b10f-442e-865b-c24336a0a840" />
 </p>
 <p align="center"> Imagen 4: Tabla de prueba de escritorio.</p>
+
 ---
 ### 💻 Lenguaje C
 C es un lenguaje de programación de propósito general, desarrollado a principios de los años 70 por Dennis Ritchie en los laboratorios Bell de AT&T. Fue creado inicialmente para implementar el sistema operativo UNIX, pero su simplicidad, eficiencia y flexibilidad lo han convertido en uno de los lenguajes más influyentes de la historia de la informática.[1]
