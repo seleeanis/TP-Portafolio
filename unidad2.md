@@ -14,7 +14,7 @@ Durante esta unidad se estudiaron los diferentes tipos de estructuras condiciona
   Permite evaluar una condición y ejecutar un bloque de instrucciones si esta es verdadera, y otro bloque diferente si la condición es falsa.  
   Se emplea cuando existen dos posibles caminos de ejecución.
 
-- **`if...else if`**  
+- **`if...else...if`**  
   Se usa cuando es necesario evaluar **varias condiciones** de manera secuencial.  
   El programa ejecuta el bloque correspondiente a la primera condición que resulte verdadera; si ninguna se cumple, se puede incluir un bloque `else` final.
 
@@ -49,7 +49,7 @@ int main(){
 }
 ```
 
-Ejemplo de Condicional **If..else**:
+Ejemplo de Condicional **if..else**:
 ```pseudocode
 #include <stdio.h>
 
@@ -72,6 +72,42 @@ int main(){
  return 0;
 }
 ```
+Ejemplo de Condicional **if..else..if**:
+```pseudocode
+#include <stdio.h>
+
+int main(){
+    float num1, num2;
+    char op;
+
+    printf("Ingrese el primer numero: ");
+    scanf("%f", &num1);
+    getchar();
+
+    printf("Ingrese el segundo numero: ");  
+    scanf("%f", &num2);
+    getchar();
+
+    printf("Ingrese el operador +, -, * o /: ");
+    scanf("%c", &op);
+    getchar();
+
+    if (op == '+'){
+        printf("El resultado es: %2.f", num1+num2);
+    }else if (op == '-'){
+        printf("El resultado es: %2.f", num1-num2);
+    }else if (op == '*'){
+        printf("El resultado es: %2.f", num1*num2);
+    }else if (op == '/'){
+        printf("El resultado es: %2.f", num1/num2);
+    }else{
+        printf("Operador no valido.\n");
+    }
+        
+    return 0;
+}
+```
+
 Ejemplo de Condicional **Switch**:
 ```pseudocode
 #include <stdio.h>
