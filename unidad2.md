@@ -4,9 +4,10 @@
 Las **estructuras condicionales** permiten que un programa tome decisiones según se cumpla o no una condición determinada.  
 Durante esta unidad se estudiaron los diferentes tipos de estructuras condicionales, como la **simple**, **doble** y **múltiple**, aplicándolas en la resolución de problemas básicos.
 
-- ✅ Utilizamos los condicionales: `if`, `else`,`if...else` y `switch`.
+- ✅ Utilizamos los condicionales: `if`,`if...else` y `switch`.
 
 Esto permitió comprender cómo las decisiones influyen en el comportamiento del programa.
+
 Ejemplo de Condicional **If**:
 ```pseudocode
 #include <stdio.h>
@@ -32,6 +33,74 @@ int main(){
 }
 ```
 
+Ejemplo de Condicional **If..else**:
+```pseudocode
+#include <stdio.h>
+
+int main(){
+
+    int num;
+
+    printf("Ingrese un numero: ");
+    scanf("%i", &num);
+    getchar();
+
+
+    primer caso 
+    if(num % 2 == 1){
+    printf("El numero %i es impar\n", num);
+    } else {
+     printf("El numero %i es par\n", num);
+    }
+
+ return 0;
+}
+```
+Ejemplo de Condicional **Switch**:
+```pseudocode
+#include <stdio.h>
+
+int main(){
+
+    int dia;
+
+    printf("Ingrese el dia de la semana en numero del 1 al 7: ");
+    scanf("%i", &dia);
+    getchar();
+
+    switch (dia)
+    {
+    case 1:
+        printf("Es lunes.\n");
+        break;
+    case 2:
+        printf("Es martes.\n");
+        break;
+    case 3:
+        printf("Es miercoles.\n");
+        break;
+    case 4:
+        printf("Es jueves.\n");
+        break;
+    case 5:
+        printf("Es viernes.\n");
+        break;
+    case 6:
+        printf("Es sabado.\n");
+        break;
+    case 7:
+        printf("Es domingo.\n");
+        break;
+    
+    default:
+        printf("Numero no valido.");
+        break;
+
+    }
+
+    return 0;
+}
+```
 ---
 
 ### 🔁 Estructuras Repetitivas
