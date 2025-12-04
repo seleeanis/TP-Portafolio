@@ -4,8 +4,24 @@
 Las **estructuras condicionales** permiten que un programa tome decisiones según se cumpla o no una condición determinada.  
 Durante esta unidad se estudiaron los diferentes tipos de estructuras condicionales, como la **simple**, **doble** y **múltiple**, aplicándolas en la resolución de problemas básicos.
 
-- ✅ Utilizamos los condicionales: `if`,`if...else` y `switch`.
+- ✅ Utilizamos los condicionales: `if`,`if...else`,`if...else..if` y `switch`.
 
+- **`if`**  
+  Se utiliza cuando se necesita evaluar una sola condición.  
+  Si la condición es verdadera, se ejecuta un bloque de instrucciones; si es falsa, el programa continúa sin ejecutar dicho bloque.
+
+- **`if...else`**  
+  Permite evaluar una condición y ejecutar un bloque de instrucciones si esta es verdadera, y otro bloque diferente si la condición es falsa.  
+  Se emplea cuando existen dos posibles caminos de ejecución.
+
+- **`if...else if`**  
+  Se usa cuando es necesario evaluar **varias condiciones** de manera secuencial.  
+  El programa ejecuta el bloque correspondiente a la primera condición que resulte verdadera; si ninguna se cumple, se puede incluir un bloque `else` final.
+
+- **`switch`**  
+  Es una estructura de selección múltiple que se utiliza cuando se compara una misma variable contra distintos valores posibles.  
+  Facilita la lectura del código y organiza mejor las decisiones cuando existen muchas opciones.
+  
 Esto permitió comprender cómo las decisiones influyen en el comportamiento del programa.
 
 Ejemplo de Condicional **If**:
