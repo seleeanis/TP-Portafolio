@@ -49,8 +49,11 @@ int main(){
 }
 ```
 <p align="center">
-<img width="615" height="614" alt="image" src="https://github.com/user-attachments/assets/84f511df-6f14-420d-83cf-1713f735a5c6" />
+  <img src="https://github.com/user-attachments/assets/84f511df-6f14-420d-83cf-1713f735a5c6"
+       width="400"
+       alt="Imagen 1: Diagrama de flujo con condicional if">
 </p>
+
 <p align="center"> Imagen 1: Diagrama de flujo de código con condicional if.</p>
 
 
