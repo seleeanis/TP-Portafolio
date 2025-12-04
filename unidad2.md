@@ -1,4 +1,4 @@
-## 📘 Desarrollo de los Contenidos de la Unidad
+## 📘 Contenidos de la Unidad
 
 ### 🔀 Estructuras Condicionales
 Las **estructuras condicionales** permiten que un programa tome decisiones según se cumpla o no una condición determinada.  
@@ -7,6 +7,30 @@ Durante esta unidad se estudiaron los diferentes tipos de estructuras condiciona
 - ✅ Utilizamos los condicionales: `if`, `else`,`if...else` y `switch`.
 
 Esto permitió comprender cómo las decisiones influyen en el comportamiento del programa.
+Ejemplo de Condicional **If**:
+```pseudocode
+#include <stdio.h>
+
+int main(){
+
+    int valor1, valor2, suma;
+
+    printf("Ingrese el primer valor:\n");
+    scanf("%i", &valor1);
+    printf("Ingrese el segundo valor:\n");
+    scanf("%i", &valor2);
+
+    if(valor1<=valor2){
+       suma=valor1+valor2;
+       printf("La suma de los dos numeros es: %i", suma);
+
+    }
+
+
+   return 0;
+
+}
+```
 
 ---
 
