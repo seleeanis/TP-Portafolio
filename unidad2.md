@@ -54,7 +54,7 @@ int main(){
        alt="Imagen 1: Diagrama de flujo con condicional if">
 </p>
 
-<p align="center"> Imagen 1: Diagrama de flujo de código con condicional if.</p>
+<p align="center"> **Imagen 1:**  Diagrama de flujo de código con condicional if.</p>
 
 
 Ejemplo de Condicional **if..else**:
