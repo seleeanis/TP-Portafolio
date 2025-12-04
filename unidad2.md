@@ -4,9 +4,7 @@
 Las **estructuras condicionales** permiten que un programa tome decisiones según se cumpla o no una condición determinada.  
 Durante esta unidad se estudiaron los diferentes tipos de estructuras condicionales, como la **simple**, **doble** y **múltiple**, aplicándolas en la resolución de problemas básicos.
 
-Cada ejercicio fue representado mediante:
-- ✅ Diagramas de flujo, para visualizar el proceso lógico.
-- ✅ Programas en lenguaje **C**, aplicando instrucciones como `if`, `else` y `switch`.
+- ✅ Utilizamos los condicionales: `if`, `else`,`if...else` y `switch`.
 
 Esto permitió comprender cómo las decisiones influyen en el comportamiento del programa.
 
