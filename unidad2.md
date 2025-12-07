@@ -50,8 +50,7 @@ int main(){
 ```
 <p align="center">
   <img src="<img width="841" height="626" alt="image" src="https://github.com/user-attachments/assets/ddee658d-447b-4434-bb78-09424596fe4d" />
-"
-       width="400"
+
        alt="Imagen 1: Diagrama de flujo con condicional if">
 </p>
 
