@@ -52,13 +52,10 @@ int main(){
   <p align="center">
   <img src="https://github.com/user-attachments/assets/84f511df-6f14-420d-83cf-1713f735a5c6"
        width="380">
-</p>
 
-       "Imagen 1: Diagrama de flujo con condicional if"
-</p>
 
 <p align="center">
-  <em>Figura 1. Diagrama de flujo de código con estructura condicional <code>if</code>.</em>
+  <em> Figura1. Diagrama de flujo de código con estructura condicional <code>if</code>.</em>
 </p>
 
 
