@@ -48,8 +48,11 @@ int main(){
 
 }
 ```
-<p align="center">
-  <img src="<img width="841" height="626" alt="image" src="https://github.com/user-attachments/assets/ddee658d-447b-4434-bb78-09424596fe4d" />
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/84f511df-6f14-420d-83cf-1713f735a5c6"
+       width="380">
+</p>
 
        alt="Imagen 1: Diagrama de flujo con condicional if">
 </p>
