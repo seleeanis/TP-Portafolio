@@ -50,8 +50,11 @@ int main(){
 ```
 
   <p align="center">
-  <img src="<[img width="841" height="626" alt="Captura de pantalla 2025-12-07 130010" src="https://github.com/user-attachments/assets/7d1da5b3-74ce-4979-8dc5-c53287142a82](https://github.com/user-attachments/assets/b6c4023d-0634-4bc0-badb-6253a5477755)" />"
-  width="380">
+  <img 
+       src="https://github.com/user-attachments/assets/b6c4023d-0634-4bc0-badb-6253a5477755"
+       width="420"
+       alt="Figura 2: Diagrama de flujo del algoritmo de suma">
+</p>
 <img width="841" height="626" alt="Captura de pantalla 2025-12-07 130010" src="https://github.com/user-attachments/assets/b6c4023d-0634-4bc0-badb-6253a5477755" />
 
 
