@@ -49,13 +49,12 @@ int main(){
 }
 ```
 
-  <p align="center">
+<p align="center">
   <img 
        src="https://github.com/user-attachments/assets/b6c4023d-0634-4bc0-badb-6253a5477755"
-       width="420"
+       width="480"
        alt="Figura 2: Diagrama de flujo del algoritmo de suma">
 </p>
-<img width="841" height="626" alt="Captura de pantalla 2025-12-07 130010" src="https://github.com/user-attachments/assets/b6c4023d-0634-4bc0-badb-6253a5477755" />
 
 
 <p align="center">
