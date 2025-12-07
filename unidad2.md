@@ -305,23 +305,72 @@ int main (){
 <p align="center">
   <em> Imagen 7: Diagrama de flujo del algoritmo Temperatura <code>for</code>.</em>
 </p>
+
 ---
 
 ### 🔄 Ejercicio Combinado: Estructuras Condicionales y Repetitivas
-Como actividad integradora, se desarrolló un ejercicio que combina **estructuras condicionales y repetitivas**, utilizando un lenguaje de alto nivel como **Java o Python**.
+Como actividad integradora, se desarrolló un ejercicio que combina **estructuras condicionales y repetitivas**, utilizando **Python**.
 
 #### 📝 Descripción del problema
-Se planteó un problema que requería tomar decisiones y repetir procesos de manera controlada, aplicando correctamente ambas estructuras.
+Escribe un programa en Python que:
+- Pida al usuario la cantidad de estudiantes que desea registrar.
+- Para cada estudiante, solicite 3 notas.
+- Calcule el promedio de cada estudiante.
+- Use un condicional para determinar si el estudiante aprueba (promedio ≥ 7) o reprueba.
+- Al final, muestre: Cuántos estudiantes aprobaron, cuántos reprobaron y el promedio general del curso.
 
 #### 🗺️ Diagrama de flujo simplificado
-Se elaboró un diagrama de flujo que representa de forma clara la interacción entre condiciones y ciclos, facilitando la comprensión del algoritmo.
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/57945e9c-1893-462b-8ae4-dd5d10ecbc20"
+       width="800"
+</p>
 
 #### 💻 Programa
-El algoritmo fue implementado en código, respetando la sintaxis y lógica del lenguaje seleccionado, y garantizando que cumpliera con los requerimientos planteados.
+```pseudocode
+# Contadores
+aprobados = 0
+reprobados = 0
+suma_promedios = 0
+
+cantidad = int(input("Ingrese la cantidad de estudiantes: "))
+
+for i in range(1, cantidad + 1):
+    print(f"\nEstudiante {i}")
+    
+    # Pedimos 3 notas
+    nota1 = float(input("Ingrese la nota 1: "))
+    nota2 = float(input("Ingrese la nota 2: "))
+    nota3 = float(input("Ingrese la nota 3: "))
+    
+    # Promedio del estudiante
+    promedio = (nota1 + nota2 + nota3) / 3
+    suma_promedios += promedio
+
+    # Condicional para determinar si aprueba
+    if promedio >= 7:
+        print("El estudiante aprueba.")
+        aprobados += 1
+    else:
+        print("El estudiante reprueba.")
+        reprobados += 1
+
+# Promedio general del curso
+promedio_general = suma_promedios / cantidad
+
+print("\n--- RESULTADOS ---")
+print(f"Estudiantes aprobados: {aprobados}")
+print(f"Estudiantes reprobados: {reprobados}")
+print(f"Promedio general del curso: {promedio_general:.2f}")
+```
 
 #### ✅ Verificación
-Se realizaron pruebas con distintos valores de entrada para comprobar el correcto funcionamiento del programa y validar los resultados obtenidos.
 
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/4feb05e8-e559-44e9-89ac-97b919002acb"
+       width="800"
+</p>
 ---
 
 ### ⚠️ Principales Dificultades
