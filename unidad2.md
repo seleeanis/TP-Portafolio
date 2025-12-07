@@ -172,7 +172,18 @@ Se analizaron los principales tipos de estructuras repetitivas:
 - `do-while`
 - `for`
 
-Los ejercicios fueron desarrollados utilizando **diagramas de flujo** y posteriormente codificados en **lenguaje C**, reforzando la lógica de repetición y el control de ciclos.
+
+- **`while`**  
+  Ejecuta un bloque de instrucciones **mientras la condición sea verdadera**.  
+  La condición se evalúa *antes* de entrar al ciclo, por lo que es posible que **no se ejecute ninguna vez** si la condición inicial es falsa.
+
+- **`do-while`**  
+  Similar al `while`, pero con una diferencia importante: **el bloque se ejecuta al menos una vez**, ya que la condición se evalúa *después* de ejecutar las instrucciones.  
+  Se usa cuando se necesita que la acción ocurra mínimo una vez antes de validar la condición.
+
+- **`for`**  
+  Se utiliza cuando se conoce de antemano el número de repeticiones.  
+  Integra en una sola línea la **inicialización**, la **condición** y el **incremento o decremento**, permitiendo recorrer rangos o ejecutar iteraciones de forma más ordenada y controlada.
 
 ---
 
