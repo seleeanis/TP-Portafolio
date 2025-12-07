@@ -58,7 +58,7 @@ int main(){
 
 
 <p align="center">
-  <em> Figura1. Diagrama de flujo de código con estructura condicional <code>if</code>.</em>
+  <em> Imagen 1: Diagrama de flujo de código con estructura condicional <code>if</code>.</em>
 </p>
 
 
@@ -94,7 +94,7 @@ int main(){
 
 
 <p align="center">
-  <em> Figura1. Diagrama de flujo de código con estructura condicional <code>if</code>.</em>
+  <em> Imagen 2: Diagrama de flujo del algoritmo Par o Impar <code>if</code>.</em>
 </p>
 
 Ejemplo de Condicional **if..else..if**:
@@ -132,6 +132,19 @@ int main(){
     return 0;
 }
 ```
+
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/bb8e35e4-5904-44a5-9402-8376054ac4ed"
+       width="480"
+       alt="Figura 2: Diagrama de flujo del algoritmo Par o Impar">
+</p>
+
+
+<p align="center">
+  <em> Imagen 3: Diagrama de flujo del algoritmo Operaciones <code>if</code>.</em>
+</p>
+
 
 Ejemplo de Condicional **Switch**:
 ```pseudocode
