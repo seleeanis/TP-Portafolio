@@ -53,7 +53,7 @@ int main(){
   <img 
        src="https://github.com/user-attachments/assets/b6c4023d-0634-4bc0-badb-6253a5477755"
        width="480"
-       alt="Figura 2: Diagrama de flujo del algoritmo de suma">
+       alt="Figura 1: Diagrama de flujo del algoritmo de suma">
 </p>
 
 
@@ -84,6 +84,19 @@ int main(){
 
  return 0;
 }
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/bfff0604-f3b7-4d64-822a-d8bee06bc23c"
+       width="480"
+       alt="Figura 2: Diagrama de flujo del algoritmo Par o Impar">
+</p>
+
+
+<p align="center">
+  <em> Figura1. Diagrama de flujo de código con estructura condicional <code>if</code>.</em>
+</p>
+
+
 ```
 Ejemplo de Condicional **if..else..if**:
 ```pseudocode
