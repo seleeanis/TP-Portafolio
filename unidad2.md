@@ -194,7 +194,7 @@ int main(){
 <p align="center">
   <img 
        src="https://github.com/user-attachments/assets/298f4b56-99d6-4ab5-87e4-9811ca416d3f"
-       width="550"
+       width="800"
        alt="Figura 2: Diagrama de flujo del algoritmo Par o Impar">
 </p>
 
