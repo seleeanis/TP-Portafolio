@@ -94,7 +94,7 @@ int main(){
 
 
 <p align="center">
-  <em> Imagen 2: Diagrama de flujo del algoritmo Par o Impar <code>if</code>.</em>
+  <em> Imagen 2: Diagrama de flujo del algoritmo Par o Impar <code>if..else</code>.</em>
 </p>
 
 Ejemplo de Condicional **if..else..if**:
@@ -142,7 +142,7 @@ int main(){
 
 
 <p align="center">
-  <em> Imagen 3: Diagrama de flujo del algoritmo Operaciones <code>if</code>.</em>
+  <em> Imagen 3: Diagrama de flujo del algoritmo Operaciones <code>if..else..if</code>.</em>
 </p>
 
 
@@ -191,6 +191,18 @@ int main(){
     return 0;
 }
 ```
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/298f4b56-99d6-4ab5-87e4-9811ca416d3f"
+       width="480"
+       alt="Figura 2: Diagrama de flujo del algoritmo Par o Impar">
+</p>
+
+
+<p align="center">
+  <em> Imagen 4: Diagrama de flujo del algoritmo Semana <code>switch</code>.</em>
+</p>
+
 ---
 
 ### 🔁 Estructuras Repetitivas
