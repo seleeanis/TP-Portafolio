@@ -212,7 +212,7 @@ Las **estructuras repetitivas** o bucles permiten ejecutar un conjunto de instru
 - **`while`**  
   Ejecuta un bloque de instrucciones **mientras la condición sea verdadera**.  
   La condición se evalúa *antes* de entrar al ciclo, por lo que es posible que **no se ejecute ninguna vez** si la condición inicial es falsa.
-
+  
 - **`do-while`**  
   Similar al `while`, pero con una diferencia importante: **el bloque se ejecuta al menos una vez**, ya que la condición se evalúa *después* de ejecutar las instrucciones.  
   Se usa cuando se necesita que la acción ocurra mínimo una vez antes de validar la condición.
@@ -221,6 +221,90 @@ Las **estructuras repetitivas** o bucles permiten ejecutar un conjunto de instru
   Se utiliza cuando se conoce de antemano el número de repeticiones.  
   Integra en una sola línea la **inicialización**, la **condición** y el **incremento o decremento**, permitiendo recorrer rangos o ejecutar iteraciones de forma más ordenada y controlada.
 
+Ejemplo de Boucle **While**:
+```pseudocode
+#include <stdio.h>
+
+int main() {
+    int contador = 0;
+    int acumulador = 0;
+
+    while ( contador <= 5){
+        acumulador = acumulador + contador;
+        contador ++;
+    }
+
+    printf("El valor sumado es: %d\n", acumulador);
+
+    return 0;
+}
+```
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/f1224194-42a9-4a53-801b-eb62c8771ee2"
+       width="480"
+       alt="Figura 2: Diagrama de flujo del algoritmo Par o Impar">
+</p>
+
+
+<p align="center">
+  <em> Imagen 5: Diagrama de flujo del algoritmo Suma <code>while</code>.</em>
+</p>
+
+Ejemplo de Boucle **Do..while**:
+```pseudocode
+#include <stdio.h>
+
+int main(){
+
+    int contador = 1;
+
+    printf("Tabla del 2:\n");
+
+    do {
+        printf("2 x %i = %i\n", contador, 2 * contador);
+        contador = contador + 1;
+    } while (contador <= 12);
+
+    return 0;
+}
+```
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/e079d5f7-1133-4a15-a6f6-d4ac40e51538"
+       width="480"
+       alt="Figura 2: Diagrama de flujo del algoritmo Par o Impar">
+</p>
+
+
+<p align="center">
+  <em> Imagen 6: Diagrama de flujo del algoritmo Tabla del 2 <code>do..while</code>.</em>
+</p>
+Ejemplo de Boucle **Do..while**:
+
+```pseudocode
+#include <stdio.h>
+
+int main (){
+    int cont;
+    for (int cont = 10; cont  >= 1; cont--){
+        printf("El numero es : %d\n", cont);
+    }
+
+    return 0;
+}
+```
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/b1009f01-125f-432b-b0c0-41d804c40a57"
+       width="480"
+       alt="Figura 2: Diagrama de flujo del algoritmo Par o Impar">
+</p>
+
+
+<p align="center">
+  <em> Imagen 7: Diagrama de flujo del algoritmo Temperatura <code>for</code>.</em>
+</p>
 ---
 
 ### 🔄 Ejercicio Combinado: Estructuras Condicionales y Repetitivas
