@@ -54,7 +54,7 @@ int main(){
        width="380">
 </p>
 
-       alt="Imagen 1: Diagrama de flujo con condicional if">
+       "Imagen 1: Diagrama de flujo con condicional if"
 </p>
 
 <p align="center">
