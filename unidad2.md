@@ -84,6 +84,7 @@ int main(){
 
  return 0;
 }
+```
 <p align="center">
   <img 
        src="https://github.com/user-attachments/assets/bfff0604-f3b7-4d64-822a-d8bee06bc23c"
@@ -96,8 +97,6 @@ int main(){
   <em> Figura1. Diagrama de flujo de código con estructura condicional <code>if</code>.</em>
 </p>
 
-
-```
 Ejemplo de Condicional **if..else..if**:
 ```pseudocode
 #include <stdio.h>
