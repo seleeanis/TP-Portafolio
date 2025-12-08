@@ -402,18 +402,19 @@ Durante la unidad se entregaron las siguientes actividades:
 **- AA:**
 
 <p align="center">
-  <h3><span style="color:#ff66b2;"> — Tarea 1 —</span> <span style="color:black;"></span></h3>
+  <h5><span style="color:#ff66b2;"> — Tarea 1 —</span> <span style="color:black;"></span></h5>
   <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/Infografia_AA1_U2.pdf" </a>
     <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
   </a>
-
    </p>
     
-Tarea 2:
-
-<a href="https://github.com/seleeanis/TP-Portafolio/blob/main/AA2U2" </a>
+<p align="center">
+  <h3><span style="color:#ff66b2;"> — Tarea 2 —</span> <span style="color:black;"></span></h3>
+  <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/AA2U2" </a>
     <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
   </a>
+</p>
+
 
 **- APE:**
 
