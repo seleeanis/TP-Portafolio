@@ -403,19 +403,14 @@ Durante la unidad se entregaron las siguientes actividades:
 
 Tarea 1:
 
-<p align="center">
-  <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/Infografia_AA1_U2.pdf"
-     target="_blank"
-     style="
-        background:#ff74b7;
-        color:white;
-        padding:10px 22px;
-        border-radius:12px;
-        text-decoration:none;
-        font-weight:bold;
-        font-size:16px;">
-    Ver PDF
+  <p align="center">
+    <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/Infografia_AA1_U2.pdf" </a>
+    <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
   </a>
 </p>
 
+
+
+
+  
 
