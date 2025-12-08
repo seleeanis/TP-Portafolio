@@ -326,6 +326,10 @@ Escribe un programa en Python que:
        width="800"
 </p>
 
+<p align="center">
+  <em> Imagen 8: Diagrama de flujo del algoritmo en lenguaje Python .</em>
+</p>
+
 #### 💻 Programa
 ```pseudocode
 # Contadores
@@ -371,10 +375,15 @@ print(f"Promedio general del curso: {promedio_general:.2f}")
        src="https://github.com/user-attachments/assets/4feb05e8-e559-44e9-89ac-97b919002acb"
        width="800"
 </p>
+
+<p align="center">
+  <em> Imagen 9: Captura de pantalla de la terminal de VSCode  .</em>
+</p>
+  
 ---
 
 ### ⚠️ Principales Dificultades
-Entre las principales dificultades encontradas durante el desarrollo de los contenidos se destacan:
+Entre las principales dificultades encontradas se destacan:
 - La correcta formulación de condiciones lógicas.
 - El control adecuado de los ciclos repetitivos para evitar bucles infinitos.
 - La interpretación correcta del diagrama de flujo al momento de programar.
@@ -389,8 +398,7 @@ Asimismo, facilitó la transición del pensamiento abstracto al código, mejoran
 
 ### 📂 Tareas Entregadas
 Durante la unidad se entregaron las siguientes actividades:
-- Diagramas de flujo de ejercicios condicionales y repetitivos.
-- Programas en lenguaje C.
-- Ejercicio integrador desarrollado en Java o Python.
-- Evidencias de verificación y pruebas de funcionamiento.
+**AA:**
+Tarea 1:
+
 
