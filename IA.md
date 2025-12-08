@@ -1,1 +1,2 @@
 Declaro que, durante la elaboración de este portafolio digital, utilicé herramientas de Inteligencia Artificial únicamente como apoyo para mejorar aspectos estéticos del documento y fortalecer mi aprendizaje del lenguaje Markdown. La IA me permitió optimizar el uso de iconos, estilos visuales y elementos de presentación, así como comprender mejor la sintaxis necesaria para la correcta estructuración del contenido.
+Esta asistencia fue utilizada de manera responsable, manteniendo la autoría personal del contenido y respetando los criterios de integridad académica.🌸
