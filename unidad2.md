@@ -403,12 +403,30 @@ Durante la unidad se entregaron las siguientes actividades:
 
 Tarea 1:
 
-  <p align="center">
     <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/Infografia_AA1_U2.pdf" </a>
     <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
   </a>
-</p>
 
+Tarea 2:
+
+<a href="https://github.com/seleeanis/TP-Portafolio/blob/main/AA2U2" </a>
+    <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
+  </a>
+
+**- APE:**
+
+Tarea 1:
+
+<a href="https://github.com/seleeanis/TP-Portafolio/blob/main/APE1_U2.pdf" </a>
+    <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
+  </a>
+
+Tarea 2:
+
+<a href="https://github.com/seleeanis/TP-Portafolio/blob/main/APE2_U2.pdf" </a>
+    <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
+  </a>
+  
 
 
 
