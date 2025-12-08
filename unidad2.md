@@ -403,5 +403,19 @@ Durante la unidad se entregaron las siguientes actividades:
 
 Tarea 1:
 
-[📄 Ver PDF](Infografia_AA1_U2.pdf)
+<p align="center">
+  <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/Infografia_AA1_U2.pdf"
+     target="_blank"
+     style="
+        background:#ff74b7;
+        color:white;
+        padding:10px 22px;
+        border-radius:12px;
+        text-decoration:none;
+        font-weight:bold;
+        font-size:16px;">
+    Ver PDF
+  </a>
+</p>
+
 
