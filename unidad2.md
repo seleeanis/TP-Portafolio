@@ -398,7 +398,24 @@ Asimismo, facilitó la transición del pensamiento abstracto al código, mejoran
 
 ### 📂 Tareas Entregadas
 Durante la unidad se entregaron las siguientes actividades:
-**AA:**
+
+**- AA:**
+
 Tarea 1:
 
+<p align="center">
+  <a href="https://drive.google.com/drive/u/1/folders/1U90Ip_W-uANIrvghMSaW_h1hnPdydN8y" 
+     target="_blank"
+     style="
+        background:#ff74b7;
+        color:white;
+        padding:10px 22px;
+        border-radius:12px;
+        text-decoration:none;
+        font-weight:bold;
+        font-size:16px;
+        ">
+    Ver
+  </a>
+</p>
 
