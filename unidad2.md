@@ -409,7 +409,7 @@ Durante la unidad se entregaron las siguientes actividades:
    </p>
     
 <p align="center">
-  <h3><span style="color:#ff66b2;"> — Tarea 2 —</span> <span style="color:black;"></span></h3>
+  <h5><span style="color:#ff66b2;"> — Tarea 2 —</span> <span style="color:black;"></span></h5>
   <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/AA2U2" </a>
     <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
   </a>
@@ -418,17 +418,26 @@ Durante la unidad se entregaron las siguientes actividades:
 
 **- APE:**
 
-Tarea 1:
-
-<a href="https://github.com/seleeanis/TP-Portafolio/blob/main/APE1_U2.pdf" </a>
+<p align="center">
+  <h5><span style="color:#ff66b2;"> — Tarea 1 —</span> <span style="color:black;"></span></h5>
+  <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/APE1_U2.pdf" </a>
     <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
   </a>
-
-Tarea 2:
-
-<a href="https://github.com/seleeanis/TP-Portafolio/blob/main/APE2_U2.pdf" </a>
+   </p>
+    
+<p align="center">
+  <h5><span style="color:#ff66b2;"> — Tarea 2 —</span> <span style="color:black;"></span></h5>
+ <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/APE2_U2.pdf" </a>
     <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
   </a>
+</p>
+
+
+
+
+
+
+
   
 
 
