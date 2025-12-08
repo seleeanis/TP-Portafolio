@@ -280,7 +280,8 @@ int main(){
 <p align="center">
   <em> Imagen 6: Diagrama de flujo del algoritmo Tabla del 2 <code>do..while</code>.</em>
 </p>
-Ejemplo de Boucle **Do..while**:
+
+Ejemplo de Boucle **For**:
 
 ```pseudocode
 #include <stdio.h>
