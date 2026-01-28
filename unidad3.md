@@ -20,7 +20,7 @@ La **programación modular** es una técnica de desarrollo de software que consi
 
 Los parámetros pueden enviarse de 2 maneras:
 
-🔹 **Enviado por valor:** Se envía el contenido de la variable, ejemplo=5, se envía el 5 a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.
+🔹 **Envío por valor:** Se envía el contenido de la variable, ejemplo=5, se envía el 5 a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.
 Ejemplo: 
 
 ```c
