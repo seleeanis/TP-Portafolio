@@ -22,9 +22,60 @@ Los parámetros pueden enviarse de 2 maneras:
 🔹 **Enviado por valor:** Se envía el contenido de la variable, ejemplo=5, se envía el 5 a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.
 Ejemplo: 
 
+```c
+#include <stdio.h>
+
+void intercambiarValores();
+int main() {
+    int a = 3;
+    int b= 5;
+
+    intercambiarValores(a, b);
+    printf("Valor de a es: %d\n", a);
+    printf("Valor de b es: %d\n", b);
+
+    return 0;
+}
+
+void intercambiarValores(int x, int y){
+    int aux;
+    aux = x;
+    x = y;
+    y = aux;
+    
+    printf("Valor de x es: %i\n", x);
+    printf("Valor de y es: %i\n", y);
+} 
+```
+
 🔹 **Envío por referencia:** Se envía la dirección de memoria de la variable es decir si dentro de la función se realiza algún cambio pues la variable fuera de la función sufrirá este cambio.
 Ejemplo:
 
+```c
+#include <stdio.h>
+void intercambiarValores(int *x, int *y);
+int main() {
+    int a = 3;
+    int b= 5;
+
+    intercambiarValores(&a, &b);
+
+    printf("Valor de a es: %d\n", a);
+    printf("Valor de b es: %d\n", b);
+
+    return 0;
+}
+
+void intercambiarValores(int *x, int *y){
+    int aux;
+    aux = *x;
+    *x = *y;
+    *y = aux;
+    
+    printf("Valor de x es: %i\n", *x);
+    printf("Valor de y es: %i\n", *y);
+}
+```
 
 ### 🧪 Ejemplo en lenguaje C
 ```c
