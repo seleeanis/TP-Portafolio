@@ -78,3 +78,20 @@ La programación modular organiza el código en funciones bien definidas, mientr
 
 
 La programación modular mejora la organización y el mantenimiento del software, y las estructuras de datos estáticas permiten manejar información cuando el tamaño de los datos es conocido. Ambos conceptos son fundamentales en el desarrollo de programas académicos y aplicaciones básicas.
+
+### ⚠️ Principales Dificultades
+Entre las principales dificultades encontradas se destacan:
+- La correcta formulación de condiciones lógicas.
+- El control adecuado de los ciclos repetitivos para evitar bucles infinitos.
+- La interpretación correcta del diagrama de flujo al momento de programar.
+
+---
+
+### 🧠 Reflexión Crítica de los Aprendizajes
+Esta unidad permitió fortalecer el **pensamiento lógico y analítico**, comprendiendo cómo las estructuras condicionales y repetitivas son fundamentales en la programación.  
+Asimismo, facilitó la transición del pensamiento abstracto al código, mejorando la capacidad para resolver problemas de forma estructurada y eficiente.
+
+---
+
+### 📂 Tareas Entregadas
+Durante la unidad se entregaron las siguientes actividades:
