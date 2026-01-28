@@ -14,7 +14,15 @@ La **programación modular** es una técnica de desarrollo de software que consi
 - ✨ Código más ordenado y claro  
 - ❌ Reducción de errores  
 - 👥 Facilita el trabajo en equipo  
-- 📈 Mejora la escalabilidad del programa  
+- 📈 Mejora la escalabilidad del programa
+
+### 🔁 Funciones con envío de parámetros
+
+Los parámetros pueden enviarse de 2 maneras:
+- 🔹 Enviado por valor: Se envía el contenido de la variable, ejemplo=5, se envía el 5 a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.
+- 🔹 Envío por referencia: Se envía la dirección de memoria de la variable es decir si dentro de la función se realiza algún cambio pues la variable fuera de la función sufrirá este cambio.
+
+
 
 ### 🧪 Ejemplo en lenguaje C
 ```c
@@ -48,7 +56,7 @@ Las estructuras de datos estáticas son aquellas cuyo tamaño se define antes de
 - 🗂️ Matrices
 - 🧱 Estructuras (struct) con tamaño definido
 
-###🧪 Ejemplo de arreglo estático en C
+### 🧪 Ejemplo de arreglo estático en C
 ```c
 int notas[5] = {8, 9, 7, 10, 6};
 ```
