@@ -4,13 +4,13 @@
 
 La **programación modular** es una técnica de desarrollo de software que consiste en dividir un programa en partes más pequeñas llamadas **módulos** o **funciones**, donde cada una realiza una tarea específica. Esto permite crear programas más organizados, legibles y fáciles de mantener.
 
-### 🔹 Características
+### 🔹 Características:
 - 📌 Divide el programa en módulos independientes  
 - ⚙️ Cada módulo cumple una función específica  
 - 🔁 Permite reutilizar código  
 - 🛠️ Facilita el mantenimiento y la depuración  
 
-### ✅ Ventajas
+### ✅ Ventajas:
 - ✨ Código más ordenado y claro  
 - ❌ Reducción de errores  
 - 👥 Facilita el trabajo en equipo  
