@@ -1,6 +1,6 @@
 ## 📘 Contenidos de la Unidad
 
-## 🧩 Programación Modular
+### 🧩 Programación Modular
 
 La **programación modular** es una técnica de desarrollo de software que consiste en dividir un programa en partes más pequeñas llamadas **módulos** o **funciones**, donde cada una realiza una tarea específica. Esto permite crear programas más organizados, legibles y fáciles de mantener.
 
