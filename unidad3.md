@@ -30,3 +30,40 @@ int main() {
     return 0;
 }
 
+### 📦Estructuras de Datos Estáticas
+
+Las estructuras de datos estáticas son aquellas cuyo tamaño se define antes de la ejecución del programa y no puede cambiar durante su funcionamiento. Se almacenan en posiciones de memoria fijas, lo que las hace rápidas y eficientes.
+
+### 🔹 Características
+
+- 📏 Tamaño fijo
+- ⚡ Uso eficiente de la memoria
+- 🚀 Acceso rápido a los datos
+- 🔒 No permiten crecimiento dinámico
+
+### 📚 Tipos comunes
+
+- 🧮 Arreglos (vectores)
+- 🗂️ Matrices
+- 🧱 Estructuras (struct) con tamaño definido
+
+###🧪 Ejemplo de arreglo estático en C
+```c
+int notas[5] = {8, 9, 7, 10, 6};
+```
+
+### 🧪 Ejemplo de estructura estática en C
+```c
+struct Estudiante {
+    char nombre[30];
+    int edad;
+    float promedio;
+};
+```
+
+### 🔗 Relación entre Programación Modular y Estructuras de Datos Estáticas
+
+La programación modular organiza el código en funciones bien definidas, mientras que las estructuras de datos estáticas permiten almacenar información de manera ordenada y eficiente. Juntas permiten desarrollar programas claros, estructurados y fáciles de mantener.
+
+
+La programación modular mejora la organización y el mantenimiento del software, y las estructuras de datos estáticas permiten manejar información cuando el tamaño de los datos es conocido. Ambos conceptos son fundamentales en el desarrollo de programas académicos y aplicaciones básicas.
