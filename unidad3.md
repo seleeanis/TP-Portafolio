@@ -78,20 +78,6 @@ void intercambiarValores(int *x, int *y){
 }
 ```
 
-### 🧪 Ejemplo en lenguaje C
-```c
-#include <stdio.h>
-
-int sumar(int a, int b) {
-    return a + b;
-}
-
-int main() {
-    int resultado = sumar(5, 3);
-    printf("La suma es: %d", resultado);
-    return 0;
-}
-```
 
 ### 📦Estructuras de Datos Estáticas
 
