@@ -29,6 +29,7 @@ int main() {
     printf("La suma es: %d", resultado);
     return 0;
 }
+```
 
 ### 📦Estructuras de Datos Estáticas
 
