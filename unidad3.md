@@ -143,6 +143,18 @@ int main() {
     return 0;
 }
 ```
+
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/b9bbccab-0174-4de7-920e-f110d19b2e95"
+       width="480"
+       alt="Figura 1: Diagrama de flujo del algoritmo de suma">
+</p>
+
+<p align="center">
+  <em> Imagen 3: Salida de la terminal Arreglo Unidimensional.</em>
+</p>
+
 - **🔢Bidimensionales:** Cuando tienen varias filas y columnas, llamados también matiz.
 La representación es m[i][j], donde i es el número de filas y j número de columnas.
 
@@ -174,6 +186,18 @@ int main() {
     return 0;
 }
 ```
+
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/83f07cf0-296a-4105-9da4-50c985399632"
+       width="480"
+       alt="Figura 1: Diagrama de flujo del algoritmo de suma">
+</p>
+
+<p align="center">
+  <em> Imagen 4: Salida de la terminal Arreglo Bidimensional.</em>
+</p>
+
 - **🧱Tridimensionales:** Cuando tenemos varias filas,  columnas, y profundidad.
 La representación es m[i][j][k], donde i es la profundidad, j el número de filas y k el número de columnas.
 
@@ -209,7 +233,16 @@ int main() {
     return 0;
 }
 ```
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/81663de0-5104-4e30-9db3-2ff8a25d3c15"
+       width="480"
+       alt="Figura 1: Diagrama de flujo del algoritmo de suma">
+</p>
 
+<p align="center">
+  <em> Imagen 5: Salida de la terminal Arreglo Tridimensional.</em>
+</p>
 
 ### 🔗 Relación entre Programación Modular y Estructuras de Datos Estáticas
 
