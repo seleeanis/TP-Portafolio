@@ -49,6 +49,17 @@ void intercambiarValores(int x, int y){
 } 
 ```
 
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/259b6474-77d2-44ce-ae9d-4a6d3926216f"
+       width="480"
+       alt="Figura 1: Diagrama de flujo del algoritmo de suma">
+</p>
+
+<p align="center">
+  <em> Imagen 1: Salida de la terminal Pase por valor.</em>
+</p>
+
 🔹 **Envío por referencia:** Se envía la dirección de memoria de la variable es decir si dentro de la función se realiza algún cambio pues la variable fuera de la función sufrirá este cambio.
 Ejemplo:
 
@@ -86,7 +97,7 @@ void intercambiarValores(int *x, int *y){
 </p>
 
 <p align="center">
-  <em> Imagen 2: Salida de la terminal Pase por referencia. <code>if</code>.</em>
+  <em> Imagen 2: Salida de la terminal Pase por referencia.</em>
 </p>
 
 
@@ -231,6 +242,7 @@ Asimismo, el aprendizaje sobre **arreglos** fortaleció la capacidad para almace
 
 ### 📂 Tareas Entregadas
 Durante la unidad se entregaron las siguientes actividades:
+
 **- APE:**
 
 <p align="center">
