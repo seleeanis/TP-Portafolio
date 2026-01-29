@@ -93,6 +93,7 @@ Las estructuras de datos estáticas son aquellas cuyo tamaño se define antes de
 ### 📚 Tipos comunes
 
   **🧮 Arreglos**
+  
 Los arreglos (también llamados vectores o arrays) son estructuras de datos que permiten almacenar varios valores del mismo tipo dentro de una sola variable, usando un índice para acceder a cada elemento.
 📦 En lugar de crear muchas variables, el arreglo las agrupa en una sola.
 
