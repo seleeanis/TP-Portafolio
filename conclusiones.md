@@ -1,4 +1,4 @@
-## 📝 Conclusión General del Portafolio
+## 📝 Conclusión General 
 
 A lo largo de este ciclo académico, el desarrollo del portafolio permitió consolidar de manera progresiva los fundamentos de la programación, iniciando en la **Unidad 1** con el estudio de los **algoritmos, pseudocódigo, diagramas de flujo y programación por bloques**, lo que facilitó la comprensión de la lógica computacional y la introducción al **lenguaje de programación C**.
 
