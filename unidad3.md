@@ -92,23 +92,100 @@ Las estructuras de datos estáticas son aquellas cuyo tamaño se define antes de
 
 ### 📚 Tipos comunes
 
-- 🧮 Arreglos (vectores)
-- 🗂️ Matrices
-- 🧱 Estructuras (struct) con tamaño definido
+  **🧮 Arreglos**
+Los arreglos (también llamados vectores o arrays) son estructuras de datos que permiten almacenar varios valores del mismo tipo dentro de una sola variable, usando un índice para acceder a cada elemento.
+📦 En lugar de crear muchas variables, el arreglo las agrupa en una sola.
 
-### 🧪 Ejemplo de arreglo estático en C
+- **📏Unidimensionales:** Solo tiene una fila y columnas, llamados vector o lista.
+Las posiciones del arreglo son llamadas índices y siempre empiezan en cero.
+
 ```c
-int notas[5] = {8, 9, 7, 10, 6};
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main() {
+    int lista[5];
+    lista[0] = 8;
+    lista[1] = 10;
+    lista[2] = 7;
+    lista[3] = 5;
+    lista[4] = 3;
+
+    for (int i = 0; i < 5; i++) {
+        printf("Elemento en la posicion %i: %i\n", i, lista[i]);
+    }
+    
+    return 0;
+}
+```
+- **🔢Bidimensionales:** Cuando tienen varias filas y columnas, llamados también matiz.
+La representación es m[i][j], donde i es el número de filas y j número de columnas.
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main() {
+    int matriz[3][4];
+    matriz[0][0] = 1;
+    matriz[0][1] = 5;
+    matriz[0][2] = 8;
+    matriz[0][3] = 3;
+    matriz[1][0] = 2;
+    matriz[1][1] = 3;
+    matriz[1][2] = 6;
+    matriz[1][3] = 8;
+    matriz[2][0] = 5;
+    matriz[2][1] = 7;
+    matriz[2][2] = 9;
+    matriz[2][3] = 4;
+    
+    for (int i = 0; i < 3; i++) {
+        for (int j = 0; j < 4; j++) {
+            printf("Fila %i, Columna %i: %i\n", i, j, matriz[i][j]);
+        }
+    }
+    return 0;
+}
+```
+- **🧱Tridimensionales:** Cuando tenemos varias filas,  columnas, y profundidad.
+La representación es m[i][j][k], donde i es la profundidad, j el número de filas y k el número de columnas.
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main() {
+    int tridimencional[2][3][2];
+    tridimencional[0][0][0] = 1;
+    tridimencional[0][0][1] = 4;
+    tridimencional[0][1][0] = 6;
+    tridimencional[0][1][1] = 8;
+    tridimencional[0][2][0] = 3;
+    tridimencional[0][2][1] = 7;
+
+    tridimencional[1][0][0] = 2;
+    tridimencional[1][0][1] = 5;
+    tridimencional[1][1][0] = 9;
+    tridimencional[1][1][1] = 11;
+    tridimencional[1][2][0] = 10;
+    tridimencional[1][2][1] = 12;
+
+    for (int i = 0; i < 2; i++) { //capas
+        for (int j = 0; j < 3; j++) { //filas
+            for (int k = 0; k < 2; k++) { //columnas 
+                printf("Capa: %i, Fila: %i, Columna: %i: %i\n", i, j, k, tridimencional[i][j][k]);
+            }
+        }
+    }
+
+    return 0;
+}
 ```
 
-### 🧪 Ejemplo de estructura estática en C
-```c
-struct Estudiante {
-    char nombre[30];
-    int edad;
-    float promedio;
-};
-```
 
 ### 🔗 Relación entre Programación Modular y Estructuras de Datos Estáticas
 
