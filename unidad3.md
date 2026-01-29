@@ -2,7 +2,7 @@
 
 ### 🧩 Programación Modular
 
-La **programación modular** es una técnica de desarrollo de software que consiste en dividir un programa en partes más pequeñas llamadas **módulos** o **funciones**, donde cada una realiza una tarea específica. Esto permite crear programas más organizados, legibles y fáciles de mantener.
+La **programación modular** es una técnica de desarrollo de software que consiste en dividir un programa en partes más pequeñas llamadas **módulos** o **funciones**, donde cada una realiza una tarea específica. Esto permite crear programas más organizados, legibles y fáciles de mantener.[5]
 
 ### 🔹 Características:
 - 📌 Divide el programa en módulos independientes  
@@ -20,7 +20,7 @@ La **programación modular** es una técnica de desarrollo de software que consi
 
 Los parámetros pueden enviarse de 2 maneras:
 
-🔹 **Envío por valor:** Se envía el contenido de la variable, ejemplo=5, se envía el 5 a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.
+🔹 **Envío por valor:** Se envía el contenido de la variable, ejemplo=5, se envía el 5 a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.[5]
 Ejemplo: 
 
 ```c
@@ -60,7 +60,7 @@ void intercambiarValores(int x, int y){
   <em> Imagen 1: Salida de la terminal Pase por valor.</em>
 </p>
 
-🔹 **Envío por referencia:** Se envía la dirección de memoria de la variable es decir si dentro de la función se realiza algún cambio pues la variable fuera de la función sufrirá este cambio.
+🔹 **Envío por referencia:** Se envía la dirección de memoria de la variable es decir si dentro de la función se realiza algún cambio pues la variable fuera de la función sufrirá este cambio.[5]
 Ejemplo:
 
 ```c
@@ -104,7 +104,7 @@ void intercambiarValores(int *x, int *y){
 
 ### 📦Estructuras de Datos Estáticas
 
-Las estructuras de datos estáticas son aquellas cuyo tamaño se define antes de la ejecución del programa y no puede cambiar durante su funcionamiento. Se almacenan en posiciones de memoria fijas, lo que las hace rápidas y eficientes.
+Las estructuras de datos estáticas son aquellas cuyo tamaño se define antes de la ejecución del programa y no puede cambiar durante su funcionamiento. Se almacenan en posiciones de memoria fijas, lo que las hace rápidas y eficientes.[5]
 
 ### 🔹 Características
 
@@ -118,10 +118,10 @@ Las estructuras de datos estáticas son aquellas cuyo tamaño se define antes de
   **🧮 Arreglos**
   
 Los arreglos (también llamados vectores o arrays) son estructuras de datos que permiten almacenar varios valores del mismo tipo dentro de una sola variable, usando un índice para acceder a cada elemento.
-📦 En lugar de crear muchas variables, el arreglo las agrupa en una sola.
+📦 En lugar de crear muchas variables, el arreglo las agrupa en una sola.[5]
 
 - **📏Unidimensionales:** Solo tiene una fila y columnas, llamados vector o lista.
-Las posiciones del arreglo son llamadas índices y siempre empiezan en cero.
+Las posiciones del arreglo son llamadas índices y siempre empiezan en cero.[5]
 
 ```c
 #include <stdio.h>
@@ -156,7 +156,7 @@ int main() {
 </p>
 
 - **🔢Bidimensionales:** Cuando tienen varias filas y columnas, llamados también matiz.
-La representación es m[i][j], donde i es el número de filas y j número de columnas.
+La representación es m[i][j], donde i es el número de filas y j número de columnas.[5]
 
 ```c
 #include <stdio.h>
@@ -199,7 +199,7 @@ int main() {
 </p>
 
 - **🧱Tridimensionales:** Cuando tenemos varias filas,  columnas, y profundidad.
-La representación es m[i][j][k], donde i es la profundidad, j el número de filas y k el número de columnas.
+La representación es m[i][j][k], donde i es la profundidad, j el número de filas y k el número de columnas.[5]
 
 ```c
 #include <stdio.h>
@@ -246,10 +246,10 @@ int main() {
 
 ### 🔗 Relación entre Programación Modular y Estructuras de Datos Estáticas
 
-La programación modular organiza el código en funciones bien definidas, mientras que las estructuras de datos estáticas permiten almacenar información de manera ordenada y eficiente. Juntas permiten desarrollar programas claros, estructurados y fáciles de mantener.
+La programación modular organiza el código en funciones bien definidas, mientras que las estructuras de datos estáticas permiten almacenar información de manera ordenada y eficiente. Juntas permiten desarrollar programas claros, estructurados y fáciles de mantener.[5]
 
 
-La programación modular mejora la organización y el mantenimiento del software, y las estructuras de datos estáticas permiten manejar información cuando el tamaño de los datos es conocido. Ambos conceptos son fundamentales en el desarrollo de programas académicos y aplicaciones básicas.
+La programación modular mejora la organización y el mantenimiento del software, y las estructuras de datos estáticas permiten manejar información cuando el tamaño de los datos es conocido. Ambos conceptos son fundamentales en el desarrollo de programas académicos y aplicaciones básicas.[5]
 
 ---
 
