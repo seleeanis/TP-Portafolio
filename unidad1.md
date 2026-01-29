@@ -103,17 +103,37 @@ return 0;
  ```
 
 ## 🗺️Tareas entregadas 
--	🧮 Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
 
-- 💻 Instalación de lenguajes de programación (C, Python o Java).
+**- AA:**
 
-- 🧩 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo.
+<p align="center">
+  <h5><span style="color:#ff66b2;"> — Tarea 1 —</span> <span style="color:black;"></span></h5>
+  <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/Infografia_AA1_U2.pdf" </a>
+    <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
+  </a>
+   </p>
+    
+<p align="center">
+  <h5><span style="color:#ff66b2;"> — Tarea 2 —</span> <span style="color:black;"></span></h5>
+  <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/AA2U2.pdf" </a>
+    <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
+  </a>
+</p>
 
-- 🧠 Del diseño del algoritmo a la construcción del programa.
-  
-  <p align="center">
-  <a href="https://drive.google.com/drive/folders/1ts2qCX0A8Ql9N2S3iDyLzKVBrqQIzWiV?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Abrir%20en%20Google%20Drive-ff69b4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Abrir en Google Drive">
+
+**- APE:**
+
+<p align="center">
+  <h5><span style="color:#ff66b2;"> — Tarea 1 —</span> <span style="color:black;"></span></h5>
+  <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/APE1_U2.pdf" </a>
+    <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
+  </a>
+   </p>
+    
+<p align="center">
+  <h5><span style="color:#ff66b2;"> — Tarea 2 —</span> <span style="color:black;"></span></h5>
+ <a href="https://github.com/seleeanis/TP-Portafolio/blob/main/APE2_U2.pdf" </a>
+    <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
   </a>
 </p>
 
