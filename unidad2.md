@@ -206,20 +206,20 @@ int main(){
 ---
 
 ### 🔁 Estructuras Repetitivas
-Las **estructuras repetitivas** o bucles permiten ejecutar un conjunto de instrucciones varias veces, mientras se cumpla una condición.  
+Las **estructuras repetitivas** o bucles permiten ejecutar un conjunto de instrucciones varias veces, mientras se cumpla una condición. [4]
 - ✅ Se analizaron los principales tipos de estructuras repetitivas: `while`, `do-while` y `for`.
 
 - **`while`**  
   Ejecuta un bloque de instrucciones **mientras la condición sea verdadera**.  
-  La condición se evalúa *antes* de entrar al ciclo, por lo que es posible que **no se ejecute ninguna vez** si la condición inicial es falsa.
+  La condición se evalúa *antes* de entrar al ciclo, por lo que es posible que **no se ejecute ninguna vez** si la condición inicial es falsa.[4]
   
 - **`do-while`**  
   Similar al `while`, pero con una diferencia importante: **el bloque se ejecuta al menos una vez**, ya que la condición se evalúa *después* de ejecutar las instrucciones.  
-  Se usa cuando se necesita que la acción ocurra mínimo una vez antes de validar la condición.
+  Se usa cuando se necesita que la acción ocurra mínimo una vez antes de validar la condición.[4]
 
 - **`for`**  
   Se utiliza cuando se conoce de antemano el número de repeticiones.  
-  Integra en una sola línea la **inicialización**, la **condición** y el **incremento o decremento**, permitiendo recorrer rangos o ejecutar iteraciones de forma más ordenada y controlada.
+  Integra en una sola línea la **inicialización**, la **condición** y el **incremento o decremento**, permitiendo recorrer rangos o ejecutar iteraciones de forma más ordenada y controlada.[4]
 
 Ejemplo de Boucle **While**:
 ```pseudocode
