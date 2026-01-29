@@ -197,17 +197,23 @@ La programación modular mejora la organización y el mantenimiento del software
 
 ---
 
-### ⚠️ Principales Dificultades
-Entre las principales dificultades encontradas se destacan:
-- La correcta formulación de condiciones lógicas.
-- El control adecuado de los ciclos repetitivos para evitar bucles infinitos.
-- La interpretación correcta del diagrama de flujo al momento de programar.
+## ⚠️ Principales Dificultades
+
+Durante el desarrollo de esta unidad se presentaron algunas dificultades relacionadas principalmente con la **modularidad**, el uso de **funciones** y el manejo de **arreglos**, entre las cuales se destacan:
+
+- 🧩 La correcta **descomposición del programa en módulos**, identificando qué partes debían implementarse como funciones independientes.
+- 🔧 La definición adecuada de **funciones**, especialmente en el uso de parámetros, valores de retorno y el alcance de las variables.
+- 📦 El manejo correcto de **arreglos**, incluyendo su inicialización, recorrido y acceso a los elementos mediante índices.
+- 🔢 La prevención de errores comunes como accesos fuera de rango en los arreglos o el uso incorrecto de datos dentro de las funciones.
 
 ---
 
-### 🧠 Reflexión Crítica de los Aprendizajes
-Esta unidad permitió fortalecer el **pensamiento lógico y analítico**, comprendiendo cómo las estructuras condicionales y repetitivas son fundamentales en la programación.  
-Asimismo, facilitó la transición del pensamiento abstracto al código, mejorando la capacidad para resolver problemas de forma estructurada y eficiente.
+## 🧠 Reflexión Crítica de los Aprendizajes
+
+Esta unidad permitió comprender la importancia de la **programación modular** como una estrategia fundamental para organizar el código de manera clara y estructurada. El uso adecuado de **funciones** facilitó la reutilización del código y mejoró la legibilidad y el mantenimiento de los programas.
+
+Asimismo, el aprendizaje sobre **arreglos** fortaleció la capacidad para almacenar y manipular múltiples datos de forma ordenada, permitiendo resolver problemas de manera más eficiente. En conjunto, estos conocimientos contribuyeron al desarrollo de un pensamiento lógico y analítico, orientado a la creación de soluciones programáticas más estructuradas y eficientes.
+
 
 ---
 
