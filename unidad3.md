@@ -78,6 +78,20 @@ void intercambiarValores(int *x, int *y){
 }
 ```
 
+<p align="center">
+  <img 
+       src="<img width="425" height="113" alt="image" src="https://github.com/user-attachments/assets/24dac1eb-06c5-49fb-8c26-6e1aaee52d59" />
+"
+       width="480"
+       alt="Figura 1: Diagrama de flujo del algoritmo de suma">
+</p>
+
+
+<p align="center">
+  <em> Imagen 2: Salida de la terminal Pase por referencia. <code>if</code>.</em>
+</p>
+
+
 
 ### 📦Estructuras de Datos Estáticas
 
